@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>634230901344-2ufqju4298j81svi1k67jr1v6u41joa9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.634230901344-2ufqju4298j81svi1k67jr1v6u41joa9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3HaW1qlgbBUngF-UD0FHbQzqshvUuTvA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>634230901344</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.testing.hewaTellAir</string>
+	<key>PROJECT_ID</key>
+	<string>hewa-tell-air</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hewa-tell-air.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:634230901344:ios:11d45d1a05bf2a104f9105</string>
+</dict>
+</plist>

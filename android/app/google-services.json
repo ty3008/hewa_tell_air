@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634230901344",
+    "project_id": "hewa-tell-air",
+    "storage_bucket": "hewa-tell-air.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634230901344:android:1ea22a03b04081214f9105",
+        "android_client_info": {
+          "package_name": "com.testing.hewa_tell_air"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634230901344-vakfqhqev0it89itadofst6tm68frm5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XKAcTcAtyL3pnzHRo79J9dTFPGNk3_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634230901344-vakfqhqev0it89itadofst6tm68frm5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
